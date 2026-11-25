@@ -27,3 +27,7 @@ python3 -m http.server 8000
 Settings → Pages → Source: "Deploy from a branch" → `main` / root.
 
 Technical articles live on [amgueye.dev](https://amgueye.dev).
+
+## License
+
+© Aminata Mariétou GUEYE. All rights reserved. The content of this repository (texts, photo, design) may not be reused without permission.
